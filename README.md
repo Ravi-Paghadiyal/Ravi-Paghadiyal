@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Ravi-Paghadiyal
 # About Me ✨
 
-I'm A Aassionate Full-Stack Developer<br>
-with a strong foundation in Java,<br>
-Data Structures & Algorithms (DSA),<br>
-and modern web technologies. I love<br>
-building efficient, scalable applications<br>
+💻I'm A Aassionate Full-Stack Developer<br>
+with a strong foundation in Java☕,<br>
+Data Structures & Algorithms (DSA)🧠,<br>
+and modern web technologies🌐. ⚡I love<br>
+building efficient,⚙️scalable 🚀applications<br>
 and continuously improving my skills<br>
-in software development.<br>
+📚in software development.<br>
 
 
 ## 🌐 Socials:
