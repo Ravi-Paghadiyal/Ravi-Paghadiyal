@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Web Developer | Java | DSA | MySQL<br><br>Hi! I’m a passionate developer learning<br>Full-Stack Web Development with a<br>strong foundation in Java and DSA. I<br>enjoy building efficient, scalable<br>applications and working with modern<br>web technologies.<br><br>💡 Tech Stack :<br><br>Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js, jQuery<br><br>Backend: Java, Spring Boot, MySQL, JSON<br><br>Data Structures & Algorithms :<br>Solving problems to improve logic and efficiency<br><br>📌 Currently working on backend development and building real-world projects.
+🚀 Full Stack Engineer | Java | DSA | MySQL<br><br>Hi! I’m a passionate developer learning<br>Full-Stack Web Development with a<br>strong foundation in Java and DSA. I<br>enjoy building efficient, scalable<br>applications and working with modern<br>web technologies.<br><br>💡 Tech Stack :<br><br>Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js, jQuery<br><br>Backend: Java, Spring Boot, MySQL, JSON<br><br>Data Structures & Algorithms :<br>Solving problems to improve logic and efficiency<br><br>📌 Currently working on backend development and building real-world projects.
 
 
 ## 🌐 Socials:
