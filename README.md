@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ravi-Paghadiyal
 # About Me ✨
 
-💻I'm A Aassionate Full-Stack Developer<br>
+💻I'm A Aassionate Full-Stack Software Engineer <br>
 with a strong foundation in Java☕,<br>
 Data Structures & Algorithms (DSA)🧠,<br>
 and modern web technologies🌐. ⚡I love<br>
