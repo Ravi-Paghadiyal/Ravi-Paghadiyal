@@ -178,7 +178,6 @@ public class Ravi-Paghadiyal {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Ravi-Paghadiyal.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi-Paghadiyal)
 
-> *Replace the links above with your actual LinkedIn, Email, Portfolio, and GitHub URLs.*
 
 </div>
 
