@@ -142,30 +142,6 @@ public class Ravi-Paghadiyal {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi-Paghadiyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Paghadiyal&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Paghadiyal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Paghadiyal&theme=tokyo-night&hide_border=true" width="49%"/>
-
-</div>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Ravi-Paghadiyal/Ravi-Paghadiyal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-
-> *Add the [Snake GitHub Action](https://github.com/Platane/snk) to your workflow to auto-generate this animation.*
-
-</div>
-
----
-
 ## 🎯 Achievements
 
 <div align="center">
