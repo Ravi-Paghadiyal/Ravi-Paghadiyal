@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravipaghadiyal&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ravipaghadiyal?label=Followers&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ravi-Paghadiyal&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Ravi-Paghadiyal?label=Followers&style=for-the-badge&color=blue)
 ![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -23,7 +23,7 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java dev illustration" />
 
 ```java
-public class RaviPaghadiyal {
+public class Ravi-Paghadiyal {
 
     private String role = "Java Full Stack Developer";
     private String status = "MCA Student";
@@ -114,22 +114,22 @@ public class RaviPaghadiyal {
 
 <div align="center">
 
-<a href="https://github.com/ravipaghadiyal/quickfix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravipaghadiyal&repo=QuickFix&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/quickfix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=QuickFix&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/ravipaghadiyal/student-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravipaghadiyal&repo=student-management-system&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/ravipaghadiyal/banking-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravipaghadiyal&repo=banking-system&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ravipaghadiyal/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravipaghadiyal&repo=portfolio-website&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/student-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=student-management-system&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
-<a href="https://github.com/ravipaghadiyal/java-dsa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravipaghadiyal&repo=java-dsa&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/banking-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=banking-system&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Ravi-Paghadiyal/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=portfolio-website&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/Ravi-Paghadiyal/java-dsa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-dsa&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -150,11 +150,11 @@ public class RaviPaghadiyal {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravipaghadiyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravipaghadiyal&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ravi-Paghadiyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Paghadiyal&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipaghadiyal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravipaghadiyal&theme=tokyo-night&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Paghadiyal&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Paghadiyal&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
 
@@ -162,7 +162,7 @@ public class RaviPaghadiyal {
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ravipaghadiyal/ravipaghadiyal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
+<img src="https://raw.githubusercontent.com/Ravi-Paghadiyal/Ravi-Paghadiyal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
 > *Add the [Snake GitHub Action](https://github.com/Platane/snk) to your workflow to auto-generate this animation.*
 
@@ -219,10 +219,10 @@ public class RaviPaghadiyal {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravipaghadiyal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravipaghadiyal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ravipaghadiyal.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravipaghadiyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ravi-Paghadiyal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ravi-Paghadiyal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Ravi-Paghadiyal.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi-Paghadiyal)
 
 > *Replace the links above with your actual LinkedIn, Email, Portfolio, and GitHub URLs.*
 
