@@ -114,18 +114,21 @@ public class Ravi-Paghadiyal {
 
 <div align="center">
 
-<a href="https://quickfix-ui.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Ravi-Paghadiyal/quickfix-ui/main/public/logo.png" width="250"/>
+<a href="https://github.com/Ravi-Paghadiyal/quickfix-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=quickfix-ui&theme=tokyonight&hide_border=true" />
 </a>
-<br/>
-<a href="#">
+
+<a href="https://github.com/Ravi-Paghadiyal/banking-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=banking-system&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
+
+<br/>
+
+<a href="https://github.com/Ravi-Paghadiyal/portfolio-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=portfolio-website&theme=tokyonight&hide_border=true" />
 </a>
-<br/>
-<a href="#">
+
+<a href="https://github.com/Ravi-Paghadiyal/java-dsa">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-dsa&theme=tokyonight&hide_border=true" />
 </a>
 
