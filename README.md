@@ -112,45 +112,14 @@ public class Ravi-Paghadiyal {
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Ravi-Paghadiyal/quickfix-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=quickfix-ui&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ravi-Paghadiyal/quickfix-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=quickfix-backend&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Ravi-Paghadiyal/DSA-Series-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=DSA-Series-&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ravi-Paghadiyal/java-oop-fundamentals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-oop-fundamentals&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Ravi-Paghadiyal/SQL-Plus-Guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=SQL-Plus-Guide&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ravi-Paghadiyal/Flower-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=Flower-Website&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | 🔗 | Project | Description |
 |---|---|---|
-| 🛠️ | **QuickFix** | A solution-oriented platform built with Java & Spring Boot for quick service/issue resolution |
-| 🎓 | **Student Management System** | Full-stack CRUD application for managing student records with Spring Boot & MySQL |
-| 🏦 | **Banking System** | Secure banking application simulating core banking operations using Java & Spring Security |
-| 🌐 | **Portfolio Website** | Personal portfolio built with React.js, Tailwind CSS showcasing skills & projects |
-| 🧮 | **Java DSA Repository** | A curated collection of Data Structures & Algorithms solutions in Java |
+| 🛠️ | **QuickFix** | A home service booking platform built using **React.js, Spring Boot, JWT, MySQL, and Tailwind CSS** that connects customers with trusted service providers. |
+| ☕ | **Soul Coffee** | A modern **Restaurant & Café Management System** developed with **Spring Boot, Spring Security, JWT, MySQL, and React.js**, featuring online ordering, reservations, payment integration, and admin dashboard. |
+| 📚 | **DSA Series** | A structured collection of **Data Structures & Algorithms** solutions in Java with explanations and optimized approaches. |
+| ☕ | **Java OOP Fundamentals** | Comprehensive Java OOP examples covering **Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation, Interfaces, and Exception Handling**. |
+| 🗄️ | **SQL Plus Guide** | A complete SQL reference including **DDL, DML, DCL, TCL, Joins, Views, Functions, Stored Procedures, and Triggers** with practical examples. |
+| 🌸 | **Flower Website** | A responsive flower shop website built with **HTML, CSS, JavaScript, and Bootstrap**, showcasing elegant UI design and responsive layouts. |
 
 
 ---
