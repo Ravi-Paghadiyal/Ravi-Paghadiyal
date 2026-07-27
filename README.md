@@ -115,7 +115,7 @@ public class Ravi-Paghadiyal {
 <div align="center">
 
 <a href="https://quickfix-ui.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=QuickFix&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Ravi-Paghadiyal/quickfix-ui/main/public/logo.png" width="250"/>
 </a>
 <br/>
 <a href="#">
