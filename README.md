@@ -118,18 +118,28 @@ public class Ravi-Paghadiyal {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=quickfix-ui&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Ravi-Paghadiyal/banking-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=banking-system&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/quickfix-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=quickfix-backend&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Ravi-Paghadiyal/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=portfolio-website&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/DSA-Series-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=DSA-Series-&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Ravi-Paghadiyal/java-dsa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-dsa&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ravi-Paghadiyal/java-oop-fundamentals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-oop-fundamentals&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Ravi-Paghadiyal/SQL-Plus-Guide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=SQL-Plus-Guide&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ravi-Paghadiyal/Flower-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=Flower-Website&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
