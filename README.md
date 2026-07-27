@@ -114,21 +114,18 @@ public class Ravi-Paghadiyal {
 
 <div align="center">
 
-<a href="https://github.com/Ravi-Paghadiyal/quickfix">
+<a href="https://quickfix-ui.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=QuickFix&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Ravi-Paghadiyal/student-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=student-management-system&theme=tokyonight&hide_border=true" />
-</a>
 <br/>
-<a href="https://github.com/Ravi-Paghadiyal/banking-system">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=banking-system&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Ravi-Paghadiyal/portfolio-website">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=portfolio-website&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
-<a href="https://github.com/Ravi-Paghadiyal/java-dsa">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Paghadiyal&repo=java-dsa&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -142,7 +139,6 @@ public class Ravi-Paghadiyal {
 | 🌐 | **Portfolio Website** | Personal portfolio built with React.js, Tailwind CSS showcasing skills & projects |
 | 🧮 | **Java DSA Repository** | A curated collection of Data Structures & Algorithms solutions in Java |
 
-> *Note: Replace repo links above with your actual GitHub repository URLs.*
 
 ---
 
